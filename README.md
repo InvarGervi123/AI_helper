@@ -1,2 +1,2 @@
-# AI Helper / Jarvis
-Local Jarvis-like voice assistant using Ollama, Whisper, and PySide6 UI.
+# Jarvis AI Helper
+Local Jarvis-like assistant using Ollama, Whisper, PySide6 UI.

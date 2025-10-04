@@ -1,0 +1,8 @@
+PySide6
+sounddevice
+numpy
+pycaw
+psutil
+edge-tts
+requests
+faster-whisper
