@@ -1,1 +1,1 @@
-# speech-to-text placeholder
+# speech to text placeholder

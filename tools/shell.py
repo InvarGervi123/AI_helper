@@ -1,1 +1,1 @@
-# shell tool (disabled by default)
+# shell tool placeholder (disabled by default)

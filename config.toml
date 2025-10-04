@@ -1,3 +1,16 @@
 [audio]
 input_device_index = 0
 output_device_index = 0
+
+[ai]
+backend = "ollama"
+ollama_model = "llama3.2"
+openai_model = "gpt-4o-mini"
+openai_api_key = ""
+
+[safety]
+enable_shell = false
+
+[aliases]
+chrome = "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe"
+notepad = "notepad.exe"

@@ -1,1 +1,1 @@
-# browser tool
+# open_url tool placeholder

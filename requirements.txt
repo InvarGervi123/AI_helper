@@ -3,6 +3,7 @@ sounddevice
 numpy
 pycaw
 psutil
-edge-tts
 requests
 faster-whisper
+edge-tts
+pyttsx3

@@ -1,1 +1,1 @@
-# audio management placeholder
+# audio placeholder

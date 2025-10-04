@@ -1,1 +1,1 @@
-# state management placeholder
+# state placeholder

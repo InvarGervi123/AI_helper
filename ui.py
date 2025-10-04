@@ -1,1 +1,1 @@
-# UI code placeholder
+# UI placeholder

@@ -1,1 +1,1 @@
-# base tool registry
+# tool registry placeholder

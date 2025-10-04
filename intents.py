@@ -1,1 +1,1 @@
-# intent parsing placeholder
+# intents placeholder
